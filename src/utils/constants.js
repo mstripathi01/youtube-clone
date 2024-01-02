@@ -1,4 +1,4 @@
-const YOUTUBE_API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY;
+export const YOUTUBE_API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY;
 
 export const LIVE_CHAT_COUNT = 200;
 export const YOUTUBE_VIDEOS_API =
